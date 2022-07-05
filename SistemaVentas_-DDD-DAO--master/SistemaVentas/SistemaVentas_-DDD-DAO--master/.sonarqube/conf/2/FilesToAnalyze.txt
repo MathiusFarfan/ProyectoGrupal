@@ -1,0 +1,12 @@
+﻿C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Infra.DataAccess\Properties\AssemblyInfo.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Infra.DataAccess\Repository\ClienteRepository.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Infra.DataAccess\Repository\ConectionSql.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Infra.DataAccess\Repository\DetalleFacturaRepository.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Infra.DataAccess\Repository\DetallePedidoRepository.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Infra.DataAccess\Repository\EmpleadoRepository.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Infra.DataAccess\Repository\EstadoPedidoRepository.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Infra.DataAccess\Repository\FacturaRepository.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Infra.DataAccess\Repository\LimiteVentaRepository.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Infra.DataAccess\Repository\MaterialRepository.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Infra.DataAccess\Repository\PedidoRepository.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Infra.DataAccess\Repository\UsuarioRepository.cs

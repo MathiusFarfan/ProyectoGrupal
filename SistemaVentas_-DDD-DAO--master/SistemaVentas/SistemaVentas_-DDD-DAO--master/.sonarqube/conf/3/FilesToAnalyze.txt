@@ -1,0 +1,11 @@
+﻿C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Aplication\ClienteService.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Aplication\DetalleFacturaService.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Aplication\DetallePedidoService.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Aplication\EmpleadoService.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Aplication\EstadoPedidoService.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Aplication\FacturaService.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Aplication\LimiteVentaService.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Aplication\MaterialService.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Aplication\PedidoService.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Aplication\Properties\AssemblyInfo.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Aplication\UsuarioService.cs

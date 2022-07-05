@@ -1,0 +1,1 @@
+﻿C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\Domain.Services\Properties\AssemblyInfo.cs

@@ -1,0 +1,2 @@
+﻿C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\infra.EmailService\Class1.cs
+C:\Users\USUARIO\Source\Repos\DDD_NFUNC_FORMS\DDD\DDD\infra.EmailService\Properties\AssemblyInfo.cs
